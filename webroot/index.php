@@ -92,7 +92,7 @@ $phpVersion = phpversion();
     <h1>Le serveur web est bien installé</h1>
     <p>Version PHP :</p>
     <div class="php-version"><?php echo $phpVersion; ?></div>
-    <div class="message">Les fichiers pour votre site web se trouve dans le dossier webroot.</div>
+    <div class="message">Les fichiers pour votre site web se trouvent dans le dossier webroot.</div>
     <div class="footer">
         <p>Hébergé par <a href="https://nethost.fr" target="_blank">NetHost FR</a></p>
     </div>
