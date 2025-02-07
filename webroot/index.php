@@ -8,7 +8,7 @@ $phpVersion = phpversion();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PNetHost FR</title>
+    <title>NetHost FR</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
